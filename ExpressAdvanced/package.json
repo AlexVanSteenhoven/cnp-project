@@ -1,0 +1,20 @@
+{
+  "name": "expressadvanced",
+  "version": "0.1.0",
+  "description": "A large web app based on express",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.4",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Alex van Steenhoven",
+  "license": "ISC"
+}

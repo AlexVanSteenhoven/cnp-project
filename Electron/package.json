@@ -1,0 +1,14 @@
+{
+  "name": "electron",
+  "version": "0.1.0",
+  "description": "A basic template for an ElectronJS app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alex van Steenhoven",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
